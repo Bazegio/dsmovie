@@ -68,7 +68,8 @@ nav a{
 
 .dsmovie-card{
     width: 100%;
-    
+    /* width:; */
+    /* height: 167px; */
 }
 
 .dsmovie-card img{
@@ -183,3 +184,5 @@ nav a{
     align-items: center;
     justify-content: space-between;
 }
+
+
